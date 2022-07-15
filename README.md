@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mhdginola
+- 👋 Hi, I’m @Ginola
 - 👀 I’m interested in FULLSTACK ENGINEER/DEVELOVER
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on ...
